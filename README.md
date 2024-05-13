@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+He studied at Kurgan State University with a degree in Fundamental Mathematics and Mechanics.\
+He completed several courses on the basics of the Python language.\
+I am currently studying at the academy "The Founder".\
+Unfortunately, there is no practical experience in programming yet.
 <!--
 **DOOMonichan/DOOMonichan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
