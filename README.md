@@ -7,6 +7,7 @@
 \
 Мой стек технологий:\
 aiogram - API Telegram\
+asyncio - Работа с ассинхронными функциями\
 aiosqlite - Асинхронная работа с DataBace\
 pandas - Работа с DataFrame\
 numpy - Работа с массивами\
@@ -23,6 +24,7 @@ At the moment, spell search is implemented by filters, exact name, and saving sp
 \
 My Technology stack:\
 aiogram - API Telegram\
+asyncio - Working with asynchronous functions\
 aiosqlite - Asynchronous work with DataBace\
 pandas - Working with DataFrame\
 numpy - Working with arrays\
